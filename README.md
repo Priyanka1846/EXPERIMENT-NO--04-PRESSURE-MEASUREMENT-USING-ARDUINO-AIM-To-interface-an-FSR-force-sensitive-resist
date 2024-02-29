@@ -23,16 +23,6 @@ FSRs are basically a resistor that changes its resistive value (in ohms Ω) depe
 ![image](https://user-images.githubusercontent.com/36288975/163532939-d6888ae1-4068-4d83-86a7-fc4c32d5179e.png)
 
 
-
-
-
-
-
-
-
-
-
-
 ### FIGURE 02 FORCE SENSITIVE RESITOR FOIL DISC TYPE  
 ![image](https://user-images.githubusercontent.com/36288975/163532957-82d57567-a1c3-48c5-8a87-7ea66d6fca49.png)
 
