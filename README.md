@@ -47,8 +47,8 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 ### Vo = Vcc ( R / (R + FSR) )								Eq-01
 
-**Where R= 1KΩ in this experiment 
-**That is, the voltage is proportional to the inverse of the FSR resistance.
+Where R= 1KΩ in this experiment 
+That is, the voltage is proportional to the inverse of the FSR resistance.
 
 
 
